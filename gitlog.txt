@@ -1,0 +1,17 @@
+commit 7bc3f002b6f5610d7d99e0d2bc23f40d4c2891e9
+Author: barbz <bzruns@sbcglobal.net>
+Date:   Mon Sep 20 15:20:58 2021 -0500
+
+    added gitignore
+
+commit dc894807cf72a4a1a9a7cbad639869d93c2a15d8
+Author: barbz <bzruns@sbcglobal.net>
+Date:   Mon Sep 20 15:00:13 2021 -0500
+
+    added two files
+
+commit 0d6cfd2170ecd23428c6ea1e0b6ff22573894012
+Author: barbz <bzruns@sbcglobal.net>
+Date:   Mon Sep 20 14:48:06 2021 -0500
+
+    added readme.txt
