@@ -1,30 +1,14 @@
-# This is a large heading
+## Hello ##
+# Welcome to my webpage #
 
-## This is a smaller heading
+**A few things about me**
+-I live in Wisconsin
+-I love to hike
+-I am participating in the Mammouth Challenge which starts October 1.  **TOMORROW**
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to **shapes** and gives to airy nothing,
-A local *habitation* and a **name**.
+## Contact me
+-via Facebook
+-email [gmail](https://mail.google.com/mail/u?authuser=bzruns@gmail.com)
 
-- This is
-- an unordered
-- list
+*"Thanks for stopping by"*
 
-1. This is
-2. an ordered
-3. list
-
-Here is `some code` in the middle of a sentence.
-
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano README.md
